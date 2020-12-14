@@ -20,5 +20,6 @@
 
 ## Test docker
 Open A Terminal (MacOS) or Powershell (Windows) and type `docker version`.
+
 9) List what the output is from `docker version`:
 
