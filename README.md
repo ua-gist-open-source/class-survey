@@ -4,11 +4,13 @@
 Please set up usernames (if you don't already have them) for:
 1) [GitHub](https://github.com/join)
 2) [Docker](https://hub.docker.com/signup/) 
-3) 
+3) [Slack](https://join.slack.com/t/uagist/shared_invite/enQtNTI1MjMzNzAxOTA3LTM2ZmRmOTY0ZTk1YTRkOWEyYWNlN2Q2OTkxZDkzMzViODYyYTdiNWRmZTFiYzA5MTk0MWNiOWI5ZWE5ZTYwOTk)
+
 ## Usernames:
 1) NetID: 
-2) GitHub Username: 
-3) Docker Username: 
+2) Slack: 
+3) GitHub Username: 
+4) Docker Username: 
 
 ## Hardware/OS (estimates or ranges ok)
 3) What operating system (Windows/Mac/Ubuntu):
