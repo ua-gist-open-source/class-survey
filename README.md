@@ -1,10 +1,16 @@
 # GIST 604B Class Survey
 
+## Set up accounts
+Please set up usernames (if you don't already have them) for:
+1) [GitHub](https://github.com/join)
+2) [Docker](https://hub.docker.com/signup/) 
+3) 
 ## Usernames:
 1) NetID: 
 2) GitHub Username: 
+3) Docker Username: 
 
-## Hardware/OS
+## Hardware/OS (estimates or ranges ok)
 3) What operating system (Windows/Mac/Ubuntu):
 4) Total RAM:
 5) Total Free Disk:
