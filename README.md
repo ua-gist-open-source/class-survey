@@ -20,10 +20,11 @@ Please set up usernames (if you don't already have them) for:
 ## This is the required software for this class. Please download and install:
 - [GitHub Desktop](https://desktop.github.com/)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop)
+  - `Microsoft Windows Home` Users will be unable to complete this. In this case we will need to set you up with a VM to complete the second half of the class.
 - [QGIS](https://qgis.org/en/site/forusers/download.html)
 
 6) List your version of GitHub Desktop:
-7) List your version of Docker Desktop:
+7) List your version of Docker Desktop (or N/A if you ran into trouble above):
 8) List your version of QGIS:
 
 ## Test docker
