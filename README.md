@@ -30,5 +30,5 @@ Please set up usernames (if you don't already have them) for:
 ## Test docker
 Open A Terminal (MacOS) or Powershell (Windows) and type `docker version`.
 
-9) List what the output is from `docker version`:
+9) List what the output is from `docker version` (or N/A):
 
